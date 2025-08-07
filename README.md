@@ -79,5 +79,6 @@ Use a .env file or environment variables in production.
 MIT License
 
 Created by Deep Doshi
+
 Inspired by Jellyfin , built with Python . 
 
